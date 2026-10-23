@@ -1,0 +1,15 @@
+{
+  "name": "LAX Producciones",
+  "short_name": "LAX Producciones",
+  "description": "Desarrollo y producción de suplementos para terceros, con el respaldo técnico y productivo de Laboratorio LAX.",
+  "lang": "es-AR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "theme_color": "#2A1149",
+  "background_color": "#2A1149",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# Backups del hosting - revisar antes de commitear
+*.php.bak
+*.zip.bak
+
+# Secretos sin encriptar (.ftp.json sí está cifrado con sops → commiteado)
+.env
+.env.local
